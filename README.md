@@ -12,4 +12,4 @@ A Challenger dataset is used for this practice.
 
 - Input: (Temperature, K)
 - Output: K nearest neighbors (Target) with the corresponding probability
-The space shuttle Challenger disaster happened when temperature was 30 before launch. What would have been your suggestion regrading the probability of O-Ring failure using your KNN model with K=3?
+The space shuttle Challenger disaster happened when temperature was 30 before launch. What would have been your suggestion regrading the probability of O-Ring failure using your KNN model with K=3
