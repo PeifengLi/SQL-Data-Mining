@@ -1,3 +1,2 @@
-*.js linguist-language=TSQL
-*.css linguist-language=TSQL
-*.html linguist-language=TSQL
+*.sql linguist-language=TSQL
+
